@@ -1,19 +1,18 @@
 # 👋🏻 Привет, я Валерий Пронин!
 
-* 🧐 Ищу работу фронтенд-разработчиком удаленно или в офисе в Рязани
+* 🧐 Frontend-разработчик
 * 💼 Мое резюме: <a href="https://ryazan.hh.ru/resume/c82f2b8eff0da1ce050039ed1f78714c30344f" target="_blank">HH.ru</a>
 * 🎓 Обучаюсь по направлению Информационные системы и технологии
-* 💻 Окончил курс по направлению Фронтенд-разработчик
 * 🔧 Стек технологий:
   
   - HTML (HTML5), JSX
-  - CSS (CSS3), Sass (SCSS), PostCSS, Tailwind
+  - CSS (CSS3), Sass (SCSS), Tailwind, Ant Design, MUI
   - JavaScript (ES6+, OOP), TypeScript
-  - React
-  - Redux
+  - React, Next.js
+  - Redux, Redux-toolkit, MobX, Zustand
   - React Router
   - Webpack, Vite, ESLint
-  - Jest, React Testing Library, Chai, Mocha, Vitest
+  - Jest, React Testing Library, Vitest
   - BEM, Accessibility, UX
   - Git (GitHub)
   - Figma, Adobe Photoshop
